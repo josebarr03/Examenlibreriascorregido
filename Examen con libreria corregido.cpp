@@ -2,6 +2,8 @@
 #include <string>
 #include <vector>
 #include <algorithm>
+#include <cstdlib>
+#include <clocale>
 #include "D:\Trabajos\Examen con libreria corregido\Primer examen parcial.h"
 #include "D:\Trabajos\Examen con libreria corregido\Segundo examen parcial.h"
 #include "D:\Trabajos\Examen con libreria corregido\Tercer examen parcial.h"
